@@ -2,9 +2,10 @@
 
 Folder description：Code (Code for data analysis), Source Data (processsed and downloaded gene sets for data analysis), ExpData(Normalzied gene expression data, The raw sequencing have been deposited into GSA Human and can be downloaded via accession HRA000632)
 
-The python version used is 3.7.6, and the R version is 3.6.1
+    The python version used is 3.7.6, and the R version is 3.6.1
 
 Code for scRNA-seq analysis:
+    
     DrawFigures_inArticle.ipynb: codes used to generate data analysis graphs in the article；
 
     FindMarkers_For_DEG.R: Calculate differential genes in the normalized expression matrix；
