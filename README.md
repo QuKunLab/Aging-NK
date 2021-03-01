@@ -19,5 +19,9 @@ scRNA_calculateAUC_inDiseaseSignatiure.R: Used for Scoring disease signatures;
 
 PAGA.ipynb: Used to generate a simpler Partition-based graph abstraction (PAGA graph).
 
+ODYD: The scRNA-seq data of PBMCs of the young and elderly healthy individuals.
 
+O7Y7: The scRNA-seq data of purified NK cells from PBMC of the young and elderly healthy individuals
+
+IntegCOVID-19:  The scRNA-seq data of integrated NK.
 
