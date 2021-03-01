@@ -1,6 +1,6 @@
 # Aging-NK
 
-Folder description：Code (Code for data analysis), Source Data (expression data, raw matrix and downloaded gene sets for data analysis)
+Folder description：Code (Code for data analysis), Source Data (processsed and downloaded gene sets for data analysis), RawGeneExpData and PoecessedGeneExpData
 
 The python version used is 3.7.6, and the R version is 3.6.1
 
