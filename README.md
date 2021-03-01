@@ -1,6 +1,6 @@
 # Aging-NK
 
-Folder description：Code (Code for data analysis), Source Data (processsed and downloaded gene sets for data analysis), ExpData(Normalzied gene expression data, The raw sequencing have been deposited into GSA Human can be downloaded via accession HRA000632)
+Folder description：Code (Code for data analysis), Source Data (processsed and downloaded gene sets for data analysis), ExpData(Normalzied gene expression data, The raw sequencing have been deposited into GSA Human and can be downloaded via accession HRA000632)
 
 The python version used is 3.7.6, and the R version is 3.6.1
 
